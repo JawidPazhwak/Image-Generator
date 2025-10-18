@@ -1,0 +1,5 @@
+{
+  "name": "Jimagenation",
+  "description": "A futuristic web application that leverages the Gemini API to generate high-quality, cyberpunk and synthwave inspired images from user-provided text prompts.",
+  "requestFramePermissions": []
+}
